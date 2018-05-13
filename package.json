@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mattthehat/background-generator/issues"
   },
-  "homepage": "https://github.com/mattthehat/background-generator#readme"
+  "homepage": "https://github.com/mattthehat/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
 }
